@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba2c83eb.css",
+    "main.js": "/static/js/main.0205857f.js",
+    "static/media/pexels-michael-block-3225517.jpg": "/static/media/pexels-michael-block-3225517.2470225eabd17f796f67.jpg",
+    "index.html": "/index.html",
+    "main.ba2c83eb.css.map": "/static/css/main.ba2c83eb.css.map",
+    "main.0205857f.js.map": "/static/js/main.0205857f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2c83eb.css",
+    "static/js/main.0205857f.js"
+  ]
+}
